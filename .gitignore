@@ -1,0 +1,13 @@
+.vscode/
+venv
+venv/
+env
+env/
+.env.bat
+.env
+*__pycache__*
+.idea
+*.DS_Store*
+.DS_Store
+.run_web.bat
+
